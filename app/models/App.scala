@@ -1,6 +1,6 @@
 package models
 
-case class App(appID: Int
+case class App(appID: Int,
                name: String,
                developer: Developer,
                logo: String,
