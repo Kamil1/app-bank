@@ -1,2 +1,2 @@
-*application.conf filter=git-crypt diff=git-crypt
+*production.conf filter=git-crypt diff=git-crypt
 *.key filter=git-crypt diff=git-crypt
