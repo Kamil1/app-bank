@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/app-bank -Dhttp.port=12681 -Dplay.crypto.secret=${APPLICATION_SECRET}
