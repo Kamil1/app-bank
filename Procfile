@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/app-bank -Dhttp.port=12681 -Dplay.crypto.secret=${APPLICATION_SECRET}
+web: target/universal/stage/bin/app-bank -Dhttp.port=11940 -Dplay.crypto.secret=${APPLICATION_SECRET}
